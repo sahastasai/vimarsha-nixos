@@ -1,0 +1,3 @@
+# Machine-specific paths and disk identifiers. Never publish these.
+identity.local.nix
+hosts/vimarsha/hardware-configuration.local.nix
